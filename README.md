@@ -29,3 +29,9 @@ deploy firebase functions
 4. https://www.youtube.com/watch?v=2u6Zb36OQjM
 5. https://www.youtube.com/watch?v=CLG0ha_a0q8 -> Postman
 
+
+#
+
+## Demo video of the application
+
+https://www.loom.com/share/d8feb8404b0c4554a9c22016c2397429?sid=e873e329-4624-4246-8d4a-31e3d16f289f
